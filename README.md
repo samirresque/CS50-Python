@@ -1,1 +1,1 @@
-- This repository CS50-Python contains the solutions of the problem sets. 
+- Solutions to problem sets of 'Harvard's Introduction to Programming with Python CS50P'
